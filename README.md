@@ -1,1 +1,1 @@
-# reactNative-todoApp-with-rtk
+# react-todoApp-with-rtk
